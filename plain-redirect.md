@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: https://example.com
+target: https://myurgent2kacademy.com.ng
 ---
