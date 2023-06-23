@@ -1,8 +1,8 @@
 ---
 layout: forward
-targettitle: Taking you to example.com
-target: https://example.com
-targetname: Example.com
+targettitle: Taking you to myurgent2kacademy.com.ng
+target: https://myurgent2kacademy.com.ng
+targetname: myurgent2kacademy.com.ng
 time: 10
-message: This isn't here any more!
+message: This site isn't here any more!
 ---
